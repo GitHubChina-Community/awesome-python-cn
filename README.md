@@ -1221,8 +1221,8 @@ Python 实现的算法和设计模式。
 
 * 《[值得关注的 10 个 Python 英文博客](http://python.importnew.com/81730/)》
 
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-
-* GitHub中文社区 
+<h3 id="weibo-weixin">微信公众号:GitHub中文社区</h3>
+ 
 * GitHub中文社区 ：挖掘开源项目，触达最新开源资讯
-<br><img src="https://github.com/GithubChineseCommunity/images/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.png?raw=true" width=400 height=200>
+
+<br><img src="https://github.com/GithubChineseCommunity/images/blob/master/gongzhonghao.png?raw=true" width=1000 height=692>
