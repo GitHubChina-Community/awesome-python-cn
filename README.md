@@ -1223,6 +1223,6 @@ Python 实现的算法和设计模式。
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 
-* Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
-* Python开发者：人生苦短，我用 Python。Python 越来越受广大程序员的喜爱。「Python开发者」是最受欢迎的、专注分享 Python 技术的微信公众号，主要分享 Python 相关的技术文章、工具资源和资讯等。
-<br><img src="http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg" width=150 height=150>
+* GitHub中文社区 
+* GitHub中文社区 ：挖掘开源项目，触达最新开源资讯
+<br><img src="https://github.com/GithubChineseCommunity/images/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.png?raw=true" width=400 height=200>
